@@ -1,0 +1,45 @@
+.backpart1{
+    position:absolute;
+    background-color:rgb(123, 123, 207);
+    z-index: 1;
+    width: 50%;
+    height:100%;
+}
+.backpart2{
+    position:absolute;
+    z-index: 1;
+    position:absolute;
+    width:50%;
+    height:100%;
+}
+.container{ 
+    z-index: 2;
+    justify-content: center;
+} 
+.form{
+
+    float:right;
+    background-color: rgb(240, 231, 231);
+    margin: 20px;
+    padding: 30px;
+}
+.firstPart{
+margin: 20px 40px;
+padding: 20px;
+
+}
+.secondPart{
+    float: left;
+    border-radius:20px ;
+}
+.checkwords{
+    font-size:0.75em;
+}
+.submit{
+    width: 200px;
+    background-color: rgb(63, 63, 110);
+}
+.simple{
+    font-size: 0.75em;
+    text-align: center;
+}
