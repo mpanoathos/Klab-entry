@@ -12,16 +12,15 @@
     width:50%;
     height:100%;
 }
-.container{ 
-    z-index: 2;
-    justify-content: center;
-} 
 .form{
-
-    float:right;
+    z-index: 2;
+    justify-content:center;
     background-color: rgb(240, 231, 231);
-    margin: 20px;
-    padding: 30px;
+    margin: 20px; 
+    padding: 20px;
+    position: relative;
+}
+
 }
 .firstPart{
 margin: 20px 40px;
